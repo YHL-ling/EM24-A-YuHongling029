@@ -1,0 +1,24 @@
+---
+title: Yu Hongling
+sidebar: false
+---
+---
+about:
+  template: jolla
+  id: about-block
+  image: "imgs/icon.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/YHL-ling/EM24-A-YuHongling029/tree/main
+---
+
+::: {#about-block}
+:::
+
+#  my website!
+
+## -----BSU，EM24-A，Yu Hongling
+#### ----I'm from Chongqing, I like spicy food
+
+
